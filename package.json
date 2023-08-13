@@ -6,5 +6,8 @@
     "langchain": "^0.0.127",
     "readable-stream": "^4.4.2"
   },
-  "type": "module"
+  "type": "module",
+  "engines": {
+    "node": "lts"
+  }
 }
